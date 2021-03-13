@@ -18,6 +18,8 @@ $RECYCLE.BIN/
 *.lnk
 
 .DS_Store
+Library
+Library/il2cpp_cache
 Library/AssetImportState
 Library/AssetServerCacheV3
 Library/FailedAssetImports.txt
